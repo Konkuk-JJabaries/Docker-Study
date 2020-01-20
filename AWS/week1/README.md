@@ -8,12 +8,14 @@
 ec2-13-59-234-130.us-east-2.compute.amazonaws.com
 ```
 `Test Server Domain`
+
 ```
-ec2-18-223-190-20.us-east-2.compute.amazonaws.com
+ec2-13-209-41-76.ap-northeast-2.compute.amazonaws.com
 ```
 Pem key는 Slack에 각각 저장되어 있음
 
 `Raspberry docker -> Test`
+
 ```
 222.232.17.133 -p 8827
 ```
